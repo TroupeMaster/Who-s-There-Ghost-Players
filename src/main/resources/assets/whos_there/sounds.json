@@ -1,0 +1,78 @@
+{
+  "door_knock1": {
+    "subtitle": "subtitles.door_knock1",
+    "sounds": [
+      {
+        "name": "whos_there:door_knock1",
+        "stream": false
+      }
+    ]
+  },
+  "door_knock2": {
+    "subtitle": "subtitles.door_knock2",
+    "sounds": [
+      {
+        "name": "whos_there:door_knock2",
+        "stream": false
+      }
+    ]
+  },
+  "door_knock3": {
+    "subtitle": "subtitles.door_knock3",
+    "sounds": [
+      {
+        "name": "whos_there:door_knock3",
+        "stream": false
+      }
+    ]
+  },
+  "ghost_breathe": {
+    "sounds": [
+      {
+        "name": "whos_there:ghost_breathe",
+        "stream": false
+      }
+    ]
+  },
+  "ghost_hey": {
+    "sounds": [
+      {
+        "name": "whos_there:ghost_hey",
+        "stream": false
+      }
+    ]
+  },
+  "ghost_scream": {
+    "sounds": [
+      {
+        "name": "whos_there:ghost_scream",
+        "stream": false
+      }
+    ]
+  },
+  "cave_ambience": {
+    "subtitle": "subtitles.cave_ambience",
+    "sounds": [
+      {
+        "name": "whos_there:ghost_hey",
+        "stream": false
+      },
+      {
+        "name": "whos_there:watcher_behind_you",
+        "stream": false
+      },
+      {
+        "name": "whos_there:watcher_hey",
+        "stream": false
+      },
+      {
+        "name": "whos_there:watcher_i_see_you",
+        "stream": false
+      },
+      {
+        "name": "whos_there:ghost_breathe",
+        "stream": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "entity.whos_there_.ghost_player": "Ghost Player",
+  "effect.whos_there.jumpscare": "Jumpscare",
+  "entity.whos_there.ghost_player": "Ghost Player",
+  "item.whos_there.empty_alex_spawn_egg": "Empty Alex Spawn Egg",
+  "item.whos_there.white_eye_spawn_egg": "White Eyes Spawn Egg",
+  "subtitles.ghost_breathe": "",
+  "entity.whos_there.white_eye": "White Eyes",
+  "subtitles.cave_ambience": "...",
+  "entity.whos_there.empty_alex": "Empty Alex",
+  "subtitles.door_knock3": "Insistent knocking",
+  "entity.whos_there.empty_steve": "Empty Steve",
+  "item.whos_there_.ghost_player_spawn_egg": "Ghost Player Spawn Egg",
+  "subtitles.door_knock2": "Violent knocking",
+  "subtitles.ghost_hey": "",
+  "item.whos_there.ghost_player_spawn_egg": "Ghost Player Spawn Egg",
+  "subtitles.door_knock1": "Knocking",
+  "subtitles.ghost_scream": "",
+  "item.whos_there.empty_steve_spawn_egg": "Empty Steve Spawn Egg"
+}

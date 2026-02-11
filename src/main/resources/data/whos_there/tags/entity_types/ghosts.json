@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "whos_there:empty_alex",
+    "whos_there:empty_steve",
+    "whos_there:ghost_player",
+    "whos_there:white_eye"
+  ]
+}

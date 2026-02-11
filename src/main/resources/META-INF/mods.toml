@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT License"
+
+[[mods]]
+modId="whos_there"
+version="1.4"
+displayName="Who's There?: Ghost Players"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/whos-there-ghost-players"
+logoFile="logo.png"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+authors="Sombrius"
+description="Adds entities with random names that spawn in caves and walk to spook the player"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.whos_there]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

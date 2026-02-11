@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "Adds entities with random names that spawn in caves and walk to spook the player"
+  }
+}
